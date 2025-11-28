@@ -1,0 +1,11 @@
+                                                        **Agent Commands**
+
+1. mlagents-learn --run-id=turtle1 --> This command use to create the band new training session in *result* Folder
+
+2. mlagents-learn --run-id=turtle1 --force
+  --> *turtle1* - it is a trainee name we can assign the own names.
+  --> *--force* it is use of reset or restart the training of an agent 
+
+3. mlagents-learn --run-id=turtle1 --resume
+  --> *resume* - it will continue the trainee again
+
